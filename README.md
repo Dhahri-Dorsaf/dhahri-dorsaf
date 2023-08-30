@@ -8,7 +8,7 @@
 
 
 <h3>🚀 About Me</h3> 
-<h4>  Hi !  🖐️ I'm Dhahri Dorsaf from Tunisia. I'm a self taught in   full stack web developement. I really enjoy learning Programming languages and frameworks.  For this moment, I'm learning the web developement with detrmination. My profile will be changed  once I finish my course and projects  👩‍💻 🙂!
+<h4>  Hi !  🖐️ I'm Dhahri Dorsaf from Tunisia. I'm a self taught in   full stack web developement. I really enjoy learning Programming languages and frameworks.  For this moment, I'm learning the web developement with determination. My profile will be changed  once I finish my course and projects  👩‍💻 🙂!
 </h4>
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
